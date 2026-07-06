@@ -1,0 +1,83 @@
+/* 
+===============================================================
+VARIABLES CSS - SecureVision
+Paleta: Azul grisáceo, celeste frío, lila suave y azul profundo
+=============================================================== 
+*/
+
+:root {
+    /* --- Colores principales de la paleta asignada --- */
+    --color-primario:        #394F63;
+    --color-secundario:      #B5C8D8;
+    --color-acento:          #D3E7EF;
+    --color-suave:           #D9D5E8;
+
+    /* --- Variantes tonales --- */
+    --color-primario-oscuro: #253544;
+    --color-primario-claro:  #4F6D85;
+    --color-blanco:          #FFFFFF;
+    --color-fondo:           #F4F8FB;
+    --color-fondo-alterno:   #EAF2F8;
+    --color-texto:           #1E2A35;
+    --color-texto-claro:     #5A6E7F;
+    --color-texto-invertido: #FFFFFF;
+
+    /* --- Tipografía --- */
+    --fuente-principal:    'Poppins', sans-serif;
+    --fuente-base:         16px;
+    --fuente-sm:           14px;
+    --fuente-lg:           18px;
+
+    /* --- Espaciados base --- */
+    --espacio-xs:   4px;
+    --espacio-sm:   8px;
+    --espacio-md:  16px;
+    --espacio-lg:  24px;
+    --espacio-xl:  32px;
+    --espacio-xxl: 48px;
+
+    /* --- Bordes y sombras --- */
+    --radio-borde:   8px;
+    --radio-pill:    800px;
+    --sombra-suave:  0 2px 12px rgba(57, 79, 99, 0.10);
+    --sombra-media:  0 4px 24px rgba(57, 79, 99, 0.18);
+    --sombra-fuerte: 0 8px 32px rgba(57, 79, 99, 0.28);
+
+    /* --- Transiciones --- */
+    --transicion-rapida: 0.2s ease;
+    --transicion-normal: 0.35s ease;
+
+    /* --- Colores con transparencia (usando hex + canal alpha) --- */
+    /* Formato: #RRGGBBAA  (los dos últimos dígitos = opacidad en hex) */
+
+    /* #D3E7EF = celeste frío (--color-acento) con distintas opacidades */
+    --color-acento-08:  #D3E7EF14;  /* 8%  – fondo sutil de íconos flotantes    */
+    --color-acento-15:  #D3E7EF26;  /* 15% – hover de nav-link                  */
+    --color-acento-20:  #D3E7EF33;  /* 20% – fondo hero-badge / hero-stat-card  */
+    --color-acento-35:  #D3E7EF59;  /* 35% – borde hero-badge                   */
+    --color-acento-40:  #D3E7EF66;  /* 40% – color de íconos flotantes          */
+
+    /* #B5C8D8 = azul grisáceo (--color-secundario) con distintas opacidades */
+    --color-secundario-12: #B5C8D81F;  /* 12% – fondo botones de redes sociales  */
+    --color-secundario-20: #B5C8D833;  /* 20% – borde botones de redes sociales  */
+    --color-secundario-55: #B5C8D88C;  /* 55% – texto derechos footer            */
+
+    /* #FFFFFF = blanco con opacidad */
+    --color-blanco-10: #FFFFFF1A;  /* 10% – fondo hero-stat-card               */
+
+    /* #D3E7EF + tono stat-separador footer */
+    --color-secundario-15: #B5C8D826;  /* 15% – borde separador footer           */
+
+    /* #D9D5E8 = lila suave – para superposición en galería */
+    --color-suave-07: #D9D5E812;   /* 7%  – radial-gradient estadísticas       */
+
+    /* Tono oscuro para overlay del carrusel */
+    --color-primario-oscuro-85: #25354499;  /* 85% – gradiente caption carrusel  */
+    --color-primario-oscuro-00: #25354400;  /* 0%  – transparente (gradiente)    */
+
+    /* Sombra del focus de input */
+    --color-primario-15: #394F6326;  /* 15% – box-shadow foco formulario        */
+
+    /* CTA banner decoración */
+    --color-acento-05: #D3E7EF0D;   /* 5%  – círculo decorativo cta-banner     */
+}
