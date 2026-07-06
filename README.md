@@ -314,7 +314,7 @@ El diseño parte de 375px y escala progresivamente con `@media (min-width: ...)`
 
 ### Opción A – Abrir directamente
 1. Descarga o clona el repositorio.
-2. Abre la carpeta `liscano-jhon-landing/`.
+2. Abre la carpeta `landingpage-securevision-liscanojhon/`.
 3. Doble clic en `index.html` o ábrelo con tu navegador preferido.
 
 ### Opción B – Live Server (VS Code)
@@ -323,7 +323,7 @@ El diseño parte de 375px y escala progresivamente con `@media (min-width: ...)`
 3. Clic derecho sobre `index.html` → **"Open with Live Server"**.
 
 ### Opción C – GitHub Pages
-> `https://[usuario].github.io/liscano-jhon-landing/`
+> `[https://[usuario].github.io/liscano-jhon-landing/](https://github.com/jaliscano-oss/landingpage-securevision-liscanojhon)`
 
 ---
 
@@ -347,11 +347,9 @@ El diseño parte de 375px y escala progresivamente con `@media (min-width: ...)`
 
 ## Capturas de pantalla
 
-*(Agregar capturas al publicar en GitHub Pages)*
-
 | Móvil (375px) | Tableta (768px) | Escritorio (1366px) |
 |---|---|---|
-| *(captura)* | *(captura)* | *(captura)* |
+| ./img| *(captura)* | *(captura)* |
 
 ---
 
