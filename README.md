@@ -347,9 +347,25 @@ El diseño parte de 375px y escala progresivamente con `@media (min-width: ...)`
 
 ## Capturas de pantalla
 
-| Móvil (375px) | Tableta (768px) | Escritorio (1366px) |
-|---|---|---|
-| ./img| *(captura)* | *(captura)* |
+### Escritorio (1366px)
+
+<img src="./evidencias-readme/desktop-01.png" alt="Landing page escritorio 01" width="700">
+<img src="./evidencias-readme/desktop-02.png" alt="Landing page escritorio 02" width="700">
+<img src="./evidencias-readme/desktop-03.png" alt="Landing page escritorio 03" width="700">
+<img src="./evidencias-readme/desktop-04.png" alt="Landing page escritorio 04" width="700">
+<img src="./evidencias-readme/desktop-05.png" alt="Landing page escritorio 05" width="700">
+
+### Tableta (768px)
+
+<img src="./evidencias-readme/tablet-01.png" alt="Landing page tableta 01" width="400">
+
+### Móvil (375px)
+
+<img src="./evidencias-readme/mobil-01.png" alt="Landing page móvil 01" width="300">
+<img src="./evidencias-readme/movil-02.png" alt="Landing page móvil 02" width="300">
+<img src="./evidencias-readme/movil-03.png" alt="Landing page móvil 03" width="300">
+<img src="./evidencias-readme/movil-04.png" alt="Landing page móvil 04" width="300">
+<img src="./evidencias-readme/movil-05.png" alt="Landing page móvil 05" width="300">
 
 ---
 
