@@ -377,6 +377,11 @@ El diseño parte de 375px y escala progresivamente con `@media (min-width: ...)`
 - MDN Web Docs. (2024). *HTML: HyperText Markup Language*. https://developer.mozilla.org/es/docs/Web/HTML
 - MDN Web Docs. (2024). *CSS custom properties*. https://developer.mozilla.org/es/docs/Web/CSS/Using_CSS_custom_properties
 
+### Herramientas de IA utilizadas para imágenes
+
+- Google. (2026). *Google Flow – Generación de imágenes con IA*. https://flow.google.com
+- Microsoft. (2026). *Microsoft Designer – Generador de imágenes con IA (Bing Image Creator)*. https://www.bing.com/images/create
+
 ---
 
 *Proyecto académico – Jhon Anderson Liscano Carbo – ESPE Santo Domingo – 2026*
